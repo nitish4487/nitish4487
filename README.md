@@ -1,7 +1,7 @@
 <div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=171217&size=28&vCenter=true&multiline=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Nitish+Kumar...)](https://git.io/typing-svg)
-  <h3 align="center">im a final year student pursuing Bachelor's in Computer Scinece from JSS Academy Of Technical Education.Im a passionate learner who's always willing to learn and work across technologies.i love to explore new technologies and leverage them to solve real-life problems.Im currently into web development and working on my Data Structures and Algorithms.</h3>
+  <h3 align="center">im a final year student pursuing Bachelor's in Computer Science from JSS Academy Of Technical Education.Im a passionate learner who's always willing to learn and work across technologies.i love to explore new technologies and leverage them to solve real-life problems.Im currently into web development and working on my Data Structures and Algorithms.</h3>
   </div>
 <h1 align="right" > <img src="https://komarev.com/ghpvc/?username=nitish4487&label=Profile%20views&color=0e75b6&style=flat" alt="nitish4487" /> </h1>
 
