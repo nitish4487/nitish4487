@@ -32,17 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitish4487&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish4487&layout=compact&theme=tokyonight" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitish4487&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nitish4487" target="_blank">
