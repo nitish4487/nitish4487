@@ -22,24 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pug/pug-original.svg" alt="Pug" width="55"/>
 </p>
 
----
 
-### 🚀 Featured Projects
-- **Employee Leave Portal** – Java, Spring Boot, React.js, MongoDB  
-  *Leave management system with real-time approvals & dashboards.*
-- **Hostel Management System** – Node.js, Express.js, Pug, MongoDB  
-  *Role-based app for room allocation, payments & resident tracking.*
-
----
-
-### 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/nitish4487" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nitishk4487@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 </div>
