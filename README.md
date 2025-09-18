@@ -3,9 +3,7 @@
 <!-- Main animated header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e75b6&size=32&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nitish+Kumar;Full-Stack+Developer;Spring+Boot+•+ReactJS+•+MongoDB;Building+APIs+%26+Scalable+Apps+🚀)](https://git.io/typing-svg)
 
-<br>
-
-<img src="https://qtcinfotech.com/images/web-development/cms-website-development-service.gif" width="500px" alt="Web Development" />
+<img src="https://qtcinfotech.com/images/web-development/cms-website-development-service.gif" width="480px" alt="Web Development" style="border-radius:12px;box-shadow:0 4px 14px rgba(0,0,0,0.25);margin-top:10px;"/>
 
 ---
 
